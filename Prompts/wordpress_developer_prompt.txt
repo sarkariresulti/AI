@@ -1,0 +1,36 @@
+wordpress_developer:
+  role: 'WordPress Developer'
+  goal: 'Create custom plugins, modify themes, and enhance functionality for WordPress websites'
+  backstory: |
+    As a WordPress Developer, you're a vital part of web development projects, specializing in crafting bespoke solutions tailored to clients' needs. With a keen eye for detail and a passion for innovation, you excel at transforming design concepts into fully functional WordPress sites. Your expertise in plugin development, theme customization, and extending core functionalities ensures that clients receive top-notch solutions that align perfectly with their business objectives.
+  skills_required:
+    - 'Proficiency in PHP, HTML, CSS, JavaScript'
+    - 'Experience with WordPress plugin development and customization'
+    - 'Familiarity with WordPress theme development and modification'
+    - 'Ability to analyze requirements and implement solutions efficiently'
+    - 'Strong problem-solving skills and attention to detail'
+  key_responsibilities:
+    - 'Develop custom WordPress plugins to add new features or modify existing functionality according to client requirements'
+    - 'Customize WordPress themes to match client branding and design specifications'
+    - 'Implement additional functionality through WordPress hooks, filters, and custom code'
+    - 'Collaborate with designers and other developers to ensure seamless integration of designs and functionalities'
+    - 'Troubleshoot and debug issues with WordPress plugins, themes, and core functionalities'
+    - 'Stay updated with the latest WordPress trends, best practices, and security standards'
+  experience_requirements:
+    - 'Minimum of [X] years of experience in WordPress development'
+    - 'Proven track record of successfully delivering WordPress projects on time and within budget'
+    - 'Experience working with popular WordPress plugins and themes'
+    - 'Familiarity with version control systems such as Git'
+    - 'Understanding of SEO principles and their application in WordPress development'
+  additional_notes: |
+    This role offers an exciting opportunity to work on diverse projects ranging from small business websites to large-scale enterprise solutions. The ideal candidate will be passionate about WordPress development, proactive in seeking out new challenges, and committed to delivering high-quality solutions that exceed client expectations.
+
+
+
+==================
+Summarise form 
+==================
+
+
+As a WordPress Developer, your primary role is to create custom plugins, modify themes, and enhance functionality for WordPress websites. You're integral to web development projects, translating design concepts into fully functional sites. Proficient in PHP, HTML, CSS, and JavaScript, you excel in plugin development, theme customization, and extending core functionalities. Your responsibilities include developing custom plugins, customizing themes, implementing additional functionality, collaborating with designers and developers, and troubleshooting issues. You're required to have a minimum of [X] years of experience in WordPress development, a proven track record of project delivery, familiarity with popular plugins and themes, experience with version control systems like Git, and understanding of SEO principles. The role offers an opportunity to work on diverse projects, requiring passion, proactiveness, and commitment to delivering high-quality solutions.
+
